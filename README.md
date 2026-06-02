@@ -1,1 +1,1 @@
-# Handwritten-MNIST
+# Fashion-mnist-cnn-pytorch
